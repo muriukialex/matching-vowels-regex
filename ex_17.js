@@ -1,5 +1,5 @@
 /* a function that matches if a string starts with a vowel and ends with the same vowel it started with
-   and returns a boolean
+   returns a boolean
 */
 
 function vowelChecker(mystring){
